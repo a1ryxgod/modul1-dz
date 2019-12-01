@@ -1,0 +1,25 @@
+.outer{
+    height: auto;
+    width: 49%;
+    display: inline-block;
+border-style: solid;
+border-width: 3px;
+border-color: black;
+}
+
+li{
+    display: inline-block;
+    width: 100px;
+}
+.inner{
+    height: 600px;
+    width: 100%;
+    border-style: solid;
+    border-width: 3px;
+    border-color:saddlebrown;
+}
+
+
+
+
+
