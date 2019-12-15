@@ -1,0 +1,55 @@
+li {
+    display: inline-block;
+    width: 113px;
+    height: 42px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #03a9f4;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 110px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.inner {
+    width: 420px;
+    display: inline-block;
+    margin: auto;
+}
+
+button {
+    display: inline-block;
+    margin-left: 650px;
+    padding: 0;
+    border: 1px solid black;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+    font-family: 'Playfair Display', serif;
+    width: 170px;
+    height: 60px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+}
+
+img {
+    width: 100%;
+    height: 275px;
+}
+
+.main {
+    width: 900px;
+    margin: 0 auto;
+}
