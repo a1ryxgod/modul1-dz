@@ -4,26 +4,25 @@ li {
     height: 42px;
     font-size: 14px;
     line-height: 24px;
-    color: #03a9f4;
+    color: blue;
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     text-align: center;
     margin: 110px;
     margin-top: 10px;
-    margin-left: 150px;
+    margin-left: 200px;
 }
 
 .inner {
     width: 420px;
     display: inline-block;
     margin: auto;
-    padding: 13px;
-  
+    margin-left: 25px;
+    background-color: deepskyblue;
 }
 
 button {
     display: inline-block;
-    
     padding: 0;
     border: 1px solid black;
     font: inherit;
@@ -54,5 +53,5 @@ img {
 .main {
     width: 900px;
     margin: 0 auto;
-    
+    background-color: crimson;
 }
